@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:first_app/page1.dart';
 
 void main() {
-  runApp(MaterialApp(title: 'Hydroferma', home: LoginSignup()));
+  runApp(MaterialApp(title: 'Hydrofermaaaaaahhh', home: LoginSignup()));
 }
 
 class LoginSignup extends StatefulWidget {
